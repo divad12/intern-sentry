@@ -26,7 +26,10 @@ var interns = [
     'miles',
     'pgao',
     'RebeccaYeoh',
-    'vivek'
+    'vivek',
+    'ShyanKashani',
+    'AlexRodrigues',
+    'david'
 ];
 
 // Only gen 1 for now--should we add gen 2/beyond?
