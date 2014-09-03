@@ -11,8 +11,10 @@ var hipchatter = new Hipchatter(secrets.hipchatApiToken);
 
 var interns = [
     'AaronRubens',
+    'ARod',
     'BenKraft',
     'charlie',
+    'david',
     'DavidKong',
     'elizabethlin',
     'ilan',
@@ -25,11 +27,9 @@ var interns = [
     'MadeleineTraver',
     'miles',
     'pgao',
-    'RebeccaYeoh',
-    'vivek',
+    'RebeccaYeoh', 
     'ShyanKashani',
-    'AlexRodrigues',
-    'david'
+    'vivek'
 ];
 
 // Only gen 1 for now--should we add gen 2/beyond?
