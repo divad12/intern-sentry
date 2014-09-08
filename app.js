@@ -11,7 +11,7 @@ var hipchatter = new Hipchatter(secrets.hipchatApiToken);
 
 var interns = [
     'AaronRubens',
-    'ARod',
+    'AlexRodrigues',
     'BenKraft',
     'charlie',
     'david',
@@ -27,7 +27,8 @@ var interns = [
     'MadeleineTraver',
     'miles',
     'pgao',
-    'RebeccaYeoh', 
+    'RebeccaYeoh',
+    'ShaneKeller',
     'ShyanKashani',
     'vivek'
 ];
